@@ -9,6 +9,7 @@ BS Computer Science Honors | Minor in AI & Data Science
 
 📧 [tanisha@iastate.edu](mailto:tanisha@iastate.edu)  
 🔗 [linkedin.com/in/tanisharav](https://www.linkedin.com/in/tanisharav)
+💫 [https://tanisharav.netlify.app/](https://tanisharav.netlify.app/)
 
 ---
 
