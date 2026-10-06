@@ -1,7 +1,7 @@
 # Hey, I'm Tanisha Ravindran 👋
 
 **Sophomore @ Iowa State University**  
-BS Computer Science Honors | Minor in AI & Data Science
+BS Computer Science Honors | Minor in AI, Data Science & Cybersecurity
 
 ---
 
